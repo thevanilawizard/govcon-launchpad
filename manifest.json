@@ -1,0 +1,14 @@
+{
+  "name": "GA GovCon Law Firm Launchpad",
+  "short_name": "GovCon",
+  "description": "GovCon practice launchpad for Georgia attorneys — 15 modules, daily study plan, glossary, and live news.",
+  "start_url": "./govcon-launchpad.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1a2744",
+  "theme_color": "#1a2744",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
